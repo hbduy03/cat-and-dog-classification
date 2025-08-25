@@ -11,7 +11,7 @@
   2. Download Dataset from: https://www.kaggle.com/datasets/salader/dogs-vs-cats
   4. Move it to your local project.
   5. Run main.py to create Sequential model by using command: py main.py
-  6. Start the Flask server: py app.y
+  6. Start the Flask server: py app.py
   7. Enjoy!
 - Result:
 <img width="374" height="242" alt="image" src="https://github.com/user-attachments/assets/b3d4e994-d58f-4b89-83d0-4167f55edbc8" />
