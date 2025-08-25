@@ -4,10 +4,10 @@
 
 - How to run ?
   1. Requirement:
-    - Python
-    - Flask
-    - TensorFlow
-    - matplotlib
+      - Python
+      - Flask
+      - TensorFlow
+      - matplotlib
   2. Download Dataset from: https://www.kaggle.com/datasets/salader/dogs-vs-cats
   4. Move it to your local project.
   5. Run main.py to create Sequential model by using command: py main.py
