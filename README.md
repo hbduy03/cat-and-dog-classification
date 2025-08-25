@@ -1,6 +1,7 @@
 - Description: A basic website applies deep learning techniques to classify images of cats and dogs.
 - Project Structure:
 <img width="397" height="316" alt="image" src="https://github.com/user-attachments/assets/f476b948-ea08-465b-9ca9-bde6936528a7" />
+
 - How to run ?
   1. Requirement:
     - Python
